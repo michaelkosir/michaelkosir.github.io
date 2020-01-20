@@ -12,4 +12,13 @@ body, html {
     font-weight: 300;
     line-height: 1.0;
   }
+
+  .lead {
+    font-size: 0.6rem;
+    font-weight: 150;
+  }
+}
+
+.lead {
+  font-weight: 150;
 }
