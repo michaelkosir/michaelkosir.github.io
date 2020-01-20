@@ -14,8 +14,8 @@ body, html {
   }
 
   .lead {
-    font-size: 0.6rem;
-    font-weight: 150;
+    font-size: .75rem;
+    font-weight: 300;
   }
 }
 
