@@ -9,14 +9,14 @@ ul {
   text-align: center;
 }
 
-.lead-small {
-  font-size: 16px;
+.lead-footer {
+  font-size: 10px;
   font-weight: 300;
   line-height: 1.4;
 }
 
-.lead-footer {
-  font-size: 10px;
+.lead-small {
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
 }
@@ -55,10 +55,6 @@ ul {
     font-size: 1.75rem;
     font-weight: 300;
     line-height: 1.0;
-  }
-
-  .lead {
-    font-size: .75rem;
   }
 
   .lead-small {
