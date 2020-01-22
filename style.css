@@ -32,7 +32,7 @@ ul {
   Manage Display Headers for Mobile Devices
   https://github.com/twbs/bootstrap/issues/22104#issuecomment-387431795
 **/
-@media (max-width: 575.98px) {
+@media (max-width: 1125px) {
   .display-1 {
     font-size: 3rem;
     font-weight: 300;
@@ -52,7 +52,7 @@ ul {
   }
 
   .display-4 {
-    font-size: .5rem;
+    font-size: 1.75rem;
     font-weight: 300;
     line-height: 1.0;
   }
@@ -63,19 +63,5 @@ ul {
 
   .lead-footer {
     font-size: 8px;
-  }
-}
-
-@media (max-width: 767px) {
-  .display-4 {
-    font-size: 3rem;
-    font-weight: 300;
-    line-height: 1.2
-  }
-
-  .lead-small {
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 1.4;
   }
 }
