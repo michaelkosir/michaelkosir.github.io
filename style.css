@@ -52,13 +52,13 @@ ul {
   }
 
   .display-4 {
-    font-size: 1.75rem;
+    font-size: 1rem;
     font-weight: 300;
     line-height: 1.0;
   }
 
   .lead-small {
-    font-size: .7rem;
+    font-size: .5rem;
   }
 
   .lead-footer {
