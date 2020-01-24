@@ -49,4 +49,12 @@ ul {
     font-weight: 300;
     line-height: 1.0;
   }
+
+  .lead-small {
+    font-size: .65rem;
+  }
+
+  .lead-footer {
+    font-size: 8px;
+  }
 }
