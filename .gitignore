@@ -1,3 +1,5 @@
+run.sh
+
 # Bundler cache
 .bundle
 vendor
