@@ -14,4 +14,4 @@ Vault Agent and Vault Proxy aim to remove the initial hurdle of adopting Vault b
 Length: 15m
 
 #### Video
-<a href="https://youtu.be/4Rx3egiXZBA?t=6093" target="_blank"><img src="http://img.youtube.com/vi/4Rx3egiXZBA/0.jpg"></a>
+<a href="https://youtu.be/4Rx3egiXZBA?t=6093" target="_blank"><img alt="YouTube Video" src="https://img.youtube.com/vi/4Rx3egiXZBA/0.jpg"></a>

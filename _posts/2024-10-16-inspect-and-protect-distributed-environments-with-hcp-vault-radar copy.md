@@ -2,7 +2,7 @@
 title: Inspect and protect distributed environments with HCP Vault Radar
 date: 2024-10-16
 categories: [Talk]
-tags: [radar]
+tags: []
 description: Automate the detection and identification of unmanaged secrets in your code.
 ---
 
@@ -18,4 +18,4 @@ Length: 30m
 
 #### Video
 
-<a href="https://youtu.be/LkvWxM7ULHo" target="_blank"><img src="http://img.youtube.com/vi/LkvWxM7ULHo/0.jpg"></a>
+<a href="https://youtu.be/LkvWxM7ULHo" target="_blank"><img alt="YouTube Video" src="https://img.youtube.com/vi/LkvWxM7ULHo/0.jpg"></a>

@@ -2,7 +2,7 @@
 title: 5 steps to set up Vault for widespread adoption at your org
 date: 2024-08-28
 categories: [Blog]
-tags: [vault, strategy]
+tags: [vault]
 description: Apply this framework to introduce HashiCorp Vault into your organization and ease developer adoption.
 ---
 
