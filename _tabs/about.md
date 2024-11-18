@@ -14,7 +14,7 @@ Michael Kosir is a Developer Advocate at HashiCorp specializing in HashiCorp's s
 ## 🏢 Experience
 
 ### HashiCorp
-- Sr. Developer Advocate, Developer Relations
+- Sr. Engineer, Developer Advocacy
 
 ### Optiv
 - Consultant, Cloud/DevOps 
